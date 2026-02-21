@@ -2,3 +2,4 @@ requests==2.31.0
 openpyxl==3.11.0
 reportlab==4.0.9
 schedule==1.2.0
+streamlit>=1.25.0
