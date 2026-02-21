@@ -378,7 +378,7 @@ query = '("SETBP1" OR "Schinzel-Giedion Syndrome" OR "Schinzel Giedion" OR "SET 
 
 ## 📄 License
 
-This script is provided as-is for research purposes.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## 🔄 Version History
 
